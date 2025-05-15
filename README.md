@@ -1,4 +1,3 @@
-<img src="./octopus-avatar.png" width="150" align="right" />
 
 ## 💜 Sobre mim
 
